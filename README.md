@@ -1,5 +1,5 @@
 # hello-world
-hello-world code and github tutorial. recommended for any beginners.
+hello-world code  recommended for any beginners.
 
 
  Im supposed to write some text and tell a little bit about myself
